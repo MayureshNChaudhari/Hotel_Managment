@@ -1,0 +1,325 @@
+.p {
+  margin-top: 200px;
+  margin-left: 200px;
+  font-size: 50px;
+  font-weight: bolder;
+  width: 514px;
+  height: 45px;
+}
+.div::before {
+  background-image: url(https://source.unsplash.com/1600x555/?food/featured);
+  z-index: -1;
+  opacity: 0.4;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 555px;
+  object-fit: cover;
+}
+.div2::before {
+  background-image: url(https://source.unsplash.com/1600x1600/?fastfood);
+  z-index: -1;
+  opacity: 0.4;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 1600px;
+  object-fit: cover;
+  margin-top: 600px;
+  margin-top: 555px;
+}
+.div3::before {
+  background-image: url(https://source.unsplash.com/1600x600/?restraurant);
+  z-index: -1;
+  opacity: 0.4;
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1600px;
+  height: 600px;
+  object-fit: cover;
+  margin-top: 1420px;
+  margin-left: 0px;
+}
+.btn {
+  margin-left: 200px;
+  margin-bottom: 100px;
+  margin-top: 20px;
+  width: 350px;
+  height: 50px;
+  font-size: 30px;
+  background-image: url(https://image.shutterstock.com/image-vector/black-round-geo-map-location-260nw-253637140.jpg);
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: 35px;
+  border: solid black 0.5px;
+  padding-left: 36px;
+}
+.btn2 {
+  margin-left: 10px;
+  margin-bottom: 200px;
+  margin-top: 10px;
+  padding-left: 44px;
+  padding-top: 8px;
+  width: 200px;
+  height: 52px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_Kf1cKQ4Zj-T9_7NJYAk3yZaua0UbqpUUA&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: 45px;
+  border: solid black 0.5px;
+  background-position: left;
+  font-size: large;
+}
+.p2 {
+  margin-top: 60px;
+  margin-left: 90px;
+  font-size: 60px;
+  font-weight: bolder;
+  width: 514px;
+  height: 60px;
+}
+.navbar {
+  margin-top: 60px;
+  margin-left: 90px;
+  font-size: 60px;
+  font-weight: bolder;
+  width: 514px;
+  height: 60px;
+}
+a {
+  font-size: 45px;
+  color: whitesmoke;
+  text-decoration: none;
+  background-color: black;
+  border: solid orangered 4px;
+}
+.p3 {
+  display: inline;
+  font-size: 27px;
+  background-color: white;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 12px;
+  border: solid black 0.5px;
+  margin-left: 10px;
+}
+:placeholder-shown {
+  font-size: 29px;
+}
+img {
+  width: 400px;
+  height: 300px;
+  margin-left: 68.5px;
+  z-index: -1;
+  opacity: 0.6;
+}
+.over {
+  position: absolute;
+  top: 34%;
+  left: 17.5%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+}
+.over3 {
+  position: absolute;
+  top: 34%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+}
+.over4 {
+  position: absolute;
+  top: 34%;
+  left: 81.2%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+}
+.over5 {
+  position: absolute;
+  top: 11%;
+  left: 17.5%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 195px;
+}
+.over6 {
+  position: absolute;
+  top: 11%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 195px;
+}
+.over7 {
+  position: absolute;
+  top: 57.5%;
+  left: 36.5%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 195px;
+  display: inline;
+}
+.over8 {
+  position: absolute;
+  top: 57.5%;
+  left: 66.5%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 195px;
+}
+.over9 {
+  position: absolute;
+  top: 84%;
+  left: 21%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 346px;
+}
+.over10 {
+  position: absolute;
+  top: 84%;
+  left: 50.5%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 346px;
+}
+.over11 {
+  position: absolute;
+  top: 91.5%;
+  left: 83%;
+  transform: translate(-50%, -50%);
+  font-size: 60px;
+  font-weight: bolder;
+  font-style: italic;
+  margin-bottom: 52%;
+  color: rgb(58, 0, 0);
+  width: 346px;
+}
+.over2 {
+  position: relative;
+}
+.p4 {
+  font-size: 54px;
+  padding-left: 95px;
+  color: rgb(175, 116, 6);
+}
+.p5 {
+  font-size: 54px;
+  padding-left: 95px;
+  color: rgb(105, 105, 0);
+}
+.p6 {
+  font-size: 54px;
+  padding-left: 405px;
+  color: rgb(172, 172, 238);
+  display: inline-block;
+}
+.p7 {
+  font-size: 54px;
+  padding-left: 95px;
+  display: inline;
+  color: royalblue;
+  display: inline-block;
+  margin-left: 110px;
+}
+#hover:hover {
+  color: maroon;
+}
+img :nth-child(9) {
+  opacity: 1px;
+}
+.Nav {
+  margin-left: 735px;
+  margin-right: 110px;
+  position: fixed;
+  z-index: 10000000;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0 0 0 0;
+  top: 0px;
+}
+.Nav2 {
+  margin-left: 500px;
+  margin-right: 25px;
+  position: fixed;
+  z-index: 10000000;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0 0 0 0;
+  top: 0px;
+}
+.Nav3 {
+  margin-left: 90px;
+  margin-right: 50px;
+  position: fixed;
+  z-index: 10000000;
+  display: block;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding: 0 0 0 0;
+  top: 0px;
+}
+.center {
+  margin-top: 48.5;
+}
+.cente {
+  padding-left: 250px;
+}
+.two {
+ display: inline;
+ position: fixed;
+ top: 0px;
+ left: 0px;
+ margin-left: 0px;
+ opacity: 1;
+ height: 62px;
+ width: 1980px;
+ z-index: 100;
+}
+span {
+  visibility: hidden;
+}
