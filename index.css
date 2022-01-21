@@ -7,7 +7,7 @@
   height: 45px;
 }
 .div::before {
-  background-image: url(https://source.unsplash.com/1600x555/?food/featured);
+  background-image: url(https://source.unsplash.com/1600x555/?food);
   z-index: -1;
   opacity: 0.4;
   content: "";
