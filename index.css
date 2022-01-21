@@ -33,7 +33,7 @@
   margin-top: 555px;
 }
 .div3::before {
-  background-image: url(https://source.unsplash.com/1600x600/?restraurant);
+  background-image: url(https://source.unsplash.com/1600x600/?food);
   z-index: -1;
   opacity: 0.4;
   content: "";
